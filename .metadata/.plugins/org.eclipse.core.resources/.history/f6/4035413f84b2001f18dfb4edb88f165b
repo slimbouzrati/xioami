@@ -1,0 +1,15 @@
+package Testsuit;
+
+import org.junit.Test;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import Helper.Config;
+
+public class DisqueSSDSuit {
+	
+	@Test
+	public void productbyname() {
+		Config.driver= new ChromeDriver();
+	}
+
+}

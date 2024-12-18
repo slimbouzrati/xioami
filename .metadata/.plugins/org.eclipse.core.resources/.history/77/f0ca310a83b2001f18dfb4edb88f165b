@@ -1,0 +1,15 @@
+package Page;
+
+import java.util.List;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+public class DisqueSSDPage {
+	
+@FindBy(xpath="//*[@id=\"js-product-list\"]/div/div/article/div/div[2]/h2/a")
+List<WebElement> productlist;
+
+
+
+}

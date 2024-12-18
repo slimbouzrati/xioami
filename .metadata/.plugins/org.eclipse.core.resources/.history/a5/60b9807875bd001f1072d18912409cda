@@ -1,0 +1,9 @@
+package Pages;
+
+public class HomePage {
+	@FindBy(xpath="/html/body/div[1]/header/div[1]/div/section/div/div[2]/div/div/div/nav/ul/li/a")
+	List<webElement> menus;
+	
+	@FindBy(xpath="/html/body/div[1]/header/div[1]/div/section/div/div[2]/div/div/div/nav/ul/li[3]/div/div/div/div/section/div/div/div/div/div/a/div/div[2]/h4")
+
+	List<webElement> submenus;

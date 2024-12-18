@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="java.time.Duration"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+    <fullyQualifiedTypeName name="Helper.Config"/>
+    <fullyQualifiedTypeName name="Page.DisqueSSDPage"/>
+    <fullyQualifiedTypeName name="org.junit.Assert"/>
+    <fullyQualifiedTypeName name="java.lang.classfile.CodeBuilder.CatchBuilder"/>
+    <fullyQualifiedTypeName name="java.lang.classfile.instruction.ExceptionCatch"/>
+</qualifiedTypeNameHistroy>

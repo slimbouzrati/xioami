@@ -1,0 +1,10 @@
+package Testsuit;
+
+public class DisqueSSDSuit {
+	
+	@Test
+	public void productbyname() {
+		
+	}
+
+}

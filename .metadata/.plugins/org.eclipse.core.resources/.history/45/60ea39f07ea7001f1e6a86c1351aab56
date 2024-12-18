@@ -1,0 +1,12 @@
+package TestAuto;
+
+public class TestAuto {
+
+	
+	@
+	public void loginWithValidCredentials() {
+		
+		
+	}
+	
+}
